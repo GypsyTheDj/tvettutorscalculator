@@ -7,7 +7,7 @@
 [![Kotlin](https://img.shields.io/badge/kotlin-1.4.21-blue.svg)](http://kotlinlang.org)
 [![Gradle](https://img.shields.io/badge/gradle-6.7.1-%2366DCB8.svg)](https://developer.android.com/studio/releases/gradle-plugin)
 [![Material UI](https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white)](https://material.io/develop)
-(https://github.com/GypsyTheDj/tvettutorscalculator/blob/master/LICENSE.txt)
+
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GypsyTheDj/tvettutorscalculator/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GypsyTheDj/tvettutorscalculator)
 
