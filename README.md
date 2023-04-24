@@ -11,7 +11,7 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GypsyTheDj/tvettutorscalculator/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/GypsyTheDj/tvettutorscalculator)
 
-CIT Calculator App is a simple Android Calculator that we built with Students at Coast Institute of Technology - Voi, using Jetpack Compose and Android Material Theme following Clean Architecture approach. 
+Tvet Tutors Calculator is a simple Android Application that we built with Tvet Tutors across the Country -- Kenya 🇰🇪, using Jetpack Compose and Android Material Theme following Clean Architecture approach. 
 
 <img src="https://github.com/GypsyTheDj/tvettutorscalculator/blob/master/app/src/main/res/drawable/calculator_icon.jpg">
 
